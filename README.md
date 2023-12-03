@@ -1,5 +1,5 @@
 # aum
-สวัสดีค่ะ
+
 hello aum
 # Q&A
 Queation 1
